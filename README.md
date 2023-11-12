@@ -19,6 +19,8 @@ cd nlp-model-repository
 # Install dependencies
 pip install -r requirements.txt
 
+The closing backticks on their own line indicate the end of the code block, and you can proceed with the rest of your README content.
+
 ## Content
 
 bert_lstm: BERT + LSTM hybrid model.
