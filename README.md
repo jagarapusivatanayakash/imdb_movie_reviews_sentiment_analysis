@@ -5,15 +5,20 @@
 
 Welcome to the NLP Model Repository! This repository contains a variety of models and techniques for natural language processing tasks, including hybrid models, classical machine learning, and word embedding techniques.
 
-## Content
 
-bert_lstm: BERT + LSTM hybrid model.
-bert_lstm_cnn: BERT + LSTM + CNN hybrid model.
-roberta_classifier: RoBERTa-based classifier.
-svm_randomized_search_cv: SVM with RandomizedSearchCV.
-multinomial_naive_bayes: Multinomial Naive Bayes.
-random_forest: Random Forest model.
-word_embedding: TF-IDF and Word2Vec implementations.
+## Features
+
+- Hybrid models
+  - BERT + LSTM
+  - BERT + LSTM + CNN
+- Classifier models
+  - RoBERTa-based classifier
+  - SVM with RandomizedSearchCV
+  - Multinomial Naive Bayes
+  - Random Forest
+- Word Embedding Techniques
+  - TF-IDF
+  - Word2Vec
 
 ## Installation
 
