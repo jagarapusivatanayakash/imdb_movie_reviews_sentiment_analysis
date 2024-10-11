@@ -1,9 +1,6 @@
-# imdb_movie_reviews_sentiment_analysis
-# NLP Model Repository
+# IMDB Movie Reviews Sentiment Analysis
 
-## Description
-
-Welcome to the NLP Model Repository! This repository contains a variety of models and techniques for natural language processing tasks, including hybrid models, classical machine learning, and word embedding techniques.
+This repository contains code and resources for performing sentiment analysis on the IMDB Movie Reviews dataset. The goal is to classify movie reviews as either **positive** or **negative** based on the text of the reviews. The project leverages natural language processing (NLP) techniques, including the use of transformer-based models like BERT and LSTM networks, to build efficient sentiment classifiers.
 
 
 ## Features
@@ -27,9 +24,3 @@ To get started, follow these simple steps:
 ```bash
 # Clone the repository
 git clone https://github.com/your-username/nlp-model-repository.git
-
-# Change into the repository directory
-cd nlp-model-repository
-
-# Install dependencies
-pip install -r requirements.txt
